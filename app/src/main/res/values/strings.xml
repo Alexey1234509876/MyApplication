@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_text">Рассчитать</string>
+    <string name="logo_text">ИИ с определнием пола по весу и росту</string>
+    <string name="first_hint">Введите вес</string>
+    <string name="second_hint">Введите рост</string>
+    <string name="result_string_func">Вывод функции</string>
+</resources>
